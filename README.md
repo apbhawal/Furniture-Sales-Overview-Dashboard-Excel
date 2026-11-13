@@ -91,3 +91,11 @@ The dashboard helps users answer questions such as:
 - How does sales performance vary across regions?
 
 ---
+
+## 👨‍💻 Author
+
+**Apurba Bhawal**
+
+Aspiring Data Analyst interested in developing practical skills in data analysis, financial reporting, spreadsheet automation, and business intelligence.
+
+**Skills:** Microsoft Excel | SQL | Power BI | Python
